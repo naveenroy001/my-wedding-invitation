@@ -578,7 +578,7 @@ body{
 
 @media only screen and (max-width: 412px) {
     #events .right-circle{
-        margin-top: -240px;
+        margin-top: -140px;
     }
     #events .right-left-card{
         margin-top: 300px;
