@@ -9,6 +9,12 @@ $(document).ready(function(){
     
 });
 
+$(document).click(function(){
+    document.getElementById("audioPlayer").play();
+});
 
+$(window).scroll(function() {
+    document.getElementById("audioPlayer").play();
+});
 
 //Flower falling
