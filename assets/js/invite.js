@@ -5,7 +5,7 @@ $(document).ready(function(){
     console.log(data);
     $('#invitationurl').html('');
     
-    for(let i=0;i<data.length;i++) $('#invitationurl').append('<p><b>Name</b> : ' + data[i].name + ',<br><b>URL</b> : <a target="_blank" href="'+ siteUrl + data[i].url +'">'+ siteUrl + data[i].url +'</a></p>')    
+    for(let i=0;i<data.length;i++) $('#invitationurl').append('<p><b>Sno.</b>: '+ (i+1) +'<br><b>Name</b> : ' + data[i].name + ',<br><b>URL</b> : <a target="_blank" href="'+ siteUrl + data[i].url +'">'+ siteUrl + data[i].url +'</a></p>')    
 
 
 });
