@@ -4,7 +4,6 @@
 import data from './invitation_data.json' assert { type: "json" };
 
 $(document).ready(function(){
-    console.log(data);
     let searchParams = new URLSearchParams(window.location.search);
     if(searchParams.has('invite')){
         let param = searchParams.get('invite');
@@ -14,11 +13,11 @@ $(document).ready(function(){
 });
 
 $(document).click(function(){
-    //document.getElementById("audioPlayer").play();
+    document.getElementById("audioPlayer").play();
 });
 
 $(window).scroll(function() {
-   // document.getElementById("audioPlayer").play();
+   document.getElementById("audioPlayer").play();
 });
 
 
@@ -27,12 +26,8 @@ function findData(urlName){
       
 }
 
-
-
 $('.open-button').click(function(){
     $('#invitation-card').hide();
-
-
 });
 
 
