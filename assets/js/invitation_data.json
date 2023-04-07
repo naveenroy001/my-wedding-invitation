@@ -75,7 +75,6 @@
         "name": "Mr. Anil Jain",
         "url": "aniljain"
     },
-    
     {
         "name": "Mr. Arup Dhar",
         "url": "arupsir"
@@ -128,7 +127,6 @@
         "name": "Miss Priyanka Jain",
         "url": "priyankamaam"
     },
-   
     {
         "name": "Mr. Peeyush Gupta",
         "url": "peeyushsir"
@@ -137,7 +135,6 @@
         "name": "Mr. Vikas",
         "url": "vikaskpmg"
     },
-    
     {
         "name": "Miss. Sonal Ruprela",
         "url": "sonalam"
@@ -145,6 +142,22 @@
     {
         "name": "Mr. Pradeep Devnath",
         "url": "pradeep"
+    },
+    {
+        "name": "Mr. Anand Chandrakar",
+        "url": "pradeep"
+    },
+    {
+        "name": "Mr. Anand Chandrakar",
+        "url": "anandsir"
+    },
+    {
+        "name": "Mr. Suman Bej",
+        "url": "sumansir"
+    },
+    {
+        "name": "Miss Megha Jain",
+        "url": "meghamaam"
     },
     {
         "name": "Mr. Kumar Kodwani",
@@ -186,7 +199,6 @@
         "name": "Mrs. Trishna Bera",
         "url": "trishnabera"
     },
-
     {
         "name": "Mr. Neeraj Pandey",
         "url": "niraj"
@@ -215,10 +227,4 @@
         "name": "Idul Husain",
         "url": "idulhusain"
     }
-
-
-
-    
-
-
 ]
