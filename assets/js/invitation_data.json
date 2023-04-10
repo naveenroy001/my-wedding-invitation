@@ -220,7 +220,7 @@
         "url": "roopam"
     },
     {
-        "name": "Mr. Gopal Sarkar",
+        "name": "Mr. Gopal Sarkar With Family",
         "url": "gopalsir"
     },
     {
@@ -232,7 +232,25 @@
         "url": "badalpatel"
     },
     {
-        "name": "Idul Husain",
+        "name": "Mr. Idul Husain",
         "url": "idulhusain"
+    },
+    {
+        "name": "Mr. Ashit Dhar With Family",
+        "url": "ashitdhar"
+    },
+    {
+        "name": "Mr. Rahul Das With Family",
+        "url": "rahuldas"
+    },
+    {
+        "name": "Mr. Deepak Panda",
+        "url": "deepak"
+    },
+    {
+        "name": "Mr. Shadhon Paul with Family",
+        "url": "shadhanPaul"
     }
+
+
 ]
